@@ -16,8 +16,12 @@ change?
 
 I can check by using stagging area what I want to commit. If in stagging area you notice that is to many files you can change it and commit one logical change at a time
 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+Branches would be helpful if we want to make i.e some experimental features or we want make some changes byt we want to make it in our master branch. Things just for testing. 
+
 
 How do the diagrams help you visualize the branch structure?
 
