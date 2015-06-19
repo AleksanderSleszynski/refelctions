@@ -14,6 +14,8 @@ choosen on we can put in stagging area.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can check by using stagging area what I want to commit. If in stagging area you notice that is to many files you can change it and commit one logical change at a time
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
