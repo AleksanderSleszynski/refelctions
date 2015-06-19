@@ -31,5 +31,8 @@ Using Diagram help us visualize how branch structure looks like. Branch structur
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Result of merging two branches is one branch with cmmits with these two merged branches. Diagram form to represent it is in my opinion the easiiest way yot show how it's work.
+
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
