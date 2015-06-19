@@ -36,3 +36,5 @@ Result of merging two branches is one branch with cmmits with these two merged b
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Automatic is fast but when you encounter conflict we need to solve this manualy.
