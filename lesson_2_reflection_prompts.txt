@@ -2,8 +2,14 @@ What happens when you initialize a repository? Why do you need to do it?
 
 When i choose the directory of my further repository i need to init it, by using command git init. This is importatnt becouse it's starts our repo.
 
+
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+Stagging area is place where files are ready to commit. We can choose only some files to stagging area.
+Value of it is that sometimes we don't want to put all files to repository but only choose some and
+choosen on we can put in stagging area. 
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
