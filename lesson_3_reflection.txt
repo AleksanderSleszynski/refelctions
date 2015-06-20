@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+This is great when you work on more than one PC. When you afraid of loosing all you data from on of your local PC.
