@@ -10,3 +10,7 @@ Probably you don't want to pull every commit you've made.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks work only on github when you want to copy somebody repository you can fork it. Clone works if you want to clone repository from Github to local workspace or in your workspace. Branches when you want to add some experimental code or change something but you want to stable code stays.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When you have up-to-date version localy you can avoid many problems with merging and with commit done by other person.
