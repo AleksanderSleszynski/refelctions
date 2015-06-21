@@ -19,3 +19,7 @@ When you have up-to-date version localy you can avoid many problems with merging
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Version controll will be much more harder. If there will be more version of one file problem will rise. And with more ppl add to collaborate it will be huge problem.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When we want to change something but we aren't sure about this changes and we want to ask our collaborate about this. Or we want to test new feature but don't want to pull it to our master branch.
