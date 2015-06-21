@@ -14,3 +14,8 @@ Forks work only on github when you want to copy somebody repository you can fork
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 When you have up-to-date version localy you can avoid many problems with merging and with commit done by other person.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Version controll will be much more harder. If there will be more version of one file problem will rise. And with more ppl add to collaborate it will be huge problem.
